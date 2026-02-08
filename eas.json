@@ -1,9 +1,10 @@
 {
-  "build": {
-    "production": {
-      "android": {
-        "buildType": "apk"
-      }
+  "expo": {
+    "name": "¿Quién quiere ser Educador Social?",
+    "slug": "educador-social",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.pablo.educadorsocial"
     }
   }
 }
